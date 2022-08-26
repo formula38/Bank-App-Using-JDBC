@@ -24,7 +24,7 @@
 
 ```
 <groupId>com.revature</groupId>
-<artifactId>project1</artifactId>
+<artifactId>BankingApp</artifactId>
 <version>0.0.1-SNAPSHOT</version>
 
 ```
