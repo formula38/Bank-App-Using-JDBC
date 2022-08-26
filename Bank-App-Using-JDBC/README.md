@@ -19,7 +19,7 @@
 # Using the ORM
 
 - Clone the GitHub repository from `https://github.com/Daebaks/project_1`
-- Execute `nvm install`
+- Execute `mvn install`
 - Add the dependency in your pom.xml
 
 ```
